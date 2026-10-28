@@ -3,6 +3,9 @@
 #include <string>
 #include <array>
 #include <numeric>
+#include <cstdlib>
+#include <cstring>
+#include <cwchar>
 
 namespace vcperf
 {
